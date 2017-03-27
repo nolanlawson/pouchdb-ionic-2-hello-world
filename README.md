@@ -3,6 +3,8 @@ pouchdb-ionic-2-hello-world
 
 This is a "hello world" Ionic 2 app, using PouchDB.
 
+_(Note: for a native SQLite version, see [pouchdb-ionic-2-hello-world-with-sqlite](https://github.com/nolanlawson/pouchdb-ionic-2-hello-world-with-sqlite))_
+
 The app was built with ionic CLI v2.2.1, using this command:
 
     ionic create --v2 pouchdb-ionic-2-hello-world
